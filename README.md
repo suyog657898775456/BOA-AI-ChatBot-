@@ -28,4 +28,4 @@ This app is hosted on **Streamlit Community Cloud**.
 3. Run the app: `streamlit run app.py`.
 
 ---
-*Created for Best of Amravati.*
+*Created for Best of Amravati.* by : Suyog A. Dhepe 
